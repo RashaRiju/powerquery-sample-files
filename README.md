@@ -2,7 +2,13 @@
 
 Sample files for **"Power Query Zero to Mastery – A Complete Guide"**
 
----
+## 📖 Download the Full Book
+
+**Power Query Zero to Mastery: A Complete Guide** (988 pages, PDF)
+
+[**Download the Book (PDF)**](your-pdf-link-here)
+
+Free distribution — not for sale.
 
 ## Download All Files
 
