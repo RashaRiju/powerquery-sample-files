@@ -1,18 +1,23 @@
-# Power Query Sample Files
+# Power Query Zero to Mastery – A Complete Guide
 
-Sample files for **"Power Query Zero to Mastery – A Complete Guide"**
+**Author:** Abdulla Mohammad  
+**Pages:** 988  
+**Format:** PDF  
+**License:** Free Distribution – Not for Sale
 
-## 📖 Download the Full Book
+---
 
-**Power Query Zero to Mastery: A Complete Guide** (988 pages, PDF)
+## 📖 Download the Book
 
-[**Download the Book (PDF)**](https://github.com/RashaRiju/powerquery-sample-files/raw/main/Power_Query_Zero_to_Mastery-A_Complete_Guide.pdf)
+[Download Power Query Zero to Mastery (PDF)](https://github.com/rashariju/powerquery-zero-to-mastery/raw/main/PowerQuery_Zero_to_Mastery.pdf)
 
-Free distribution — not for sale.
+---
 
-## Download All Files
+## 📂 Sample Files
 
-Click the green **Code** button above and select **Download ZIP** to download all sample files.
+All practice datasets used in the book are available here.
+
+[Download All Sample Files (ZIP)](https://github.com/rashariju/powerquery-zero-to-mastery/archive/refs/heads/main.zip)
 
 ---
 
@@ -45,12 +50,12 @@ text
 
 ## Files Overview
 
-| File | Book Chapter | Purpose |
-|------|--------------|---------|
+| File | Chapter | Purpose |
+|------|---------|---------|
 | Foundation_First15Min.xlsx | First 15 Minutes | First automated query |
-| Foundation_Practice.xlsx | Chapters 1-7 | Basic cleaning and combining |
+| Foundation_Practice.xlsx | Chapters 1–7 | Basic cleaning and combining |
 | Monthly_Sales_2025.xlsx | Chapter 7 | Monthly file combination |
-| Core_Engineering_Practice.xlsx | Chapters 8-15 | Advanced transformations |
+| Core_Engineering_Practice.xlsx | Chapters 8–15 | Advanced transformations |
 | GL_Practice.xlsx | Chapter 16 | Financial pipeline practice |
 | GL_2026.xlsx | Chapter 16 | Multi-month GL analysis |
 | Sales_2025.xlsx | Chapter 17 | Sales pipeline practice |
@@ -63,54 +68,20 @@ text
 
 ## How to Use
 
-1. Click the green **Code** button above
-2. Select **Download ZIP**
-3. Extract the ZIP file to your Desktop
-4. Open the folder and follow the book's instructions
-
----
-
-## File Details
-
-### 01_Foundation
-- **Foundation_First15Min.xlsx** — Messy sales data for the "First 15 Minutes" exercise
-- **Foundation_Practice.xlsx** — Employee, Sales, Products, and Customers data (4 sheets)
-
-### 02_Monthly_Sales
-- **Monthly_Sales_2025.xlsx** — Jan, Feb, Mar sales data (3 sheets)
-
-### 03_Core_Engineering
-- **Core_Engineering_Practice.xlsx** — 7 sheets: Inventory, AnnualSales, Performance, MessyCustomers, RawGL, Products, SlowQuery
-
-### 04_Financial
-- **GL_Practice.xlsx** — General Ledger practice data
-- **GL_2026.xlsx** — Jan, Feb, Mar GL exports (3 sheets)
-
-### 05_Sales
-- **Sales_2025.xlsx** — Jan, Feb, Mar, Jul sales data (4 sheets)
-
-### 06_Operational
-- **Inventory_2026.xlsx** — Snapshot_Jan, Movement, Snapshot_Feb (3 sheets)
-
-### 07_HR
-- **HR_Practice.xlsx** — Employees, Terminations, Departments (3 sheets)
-
-### 08_Marketing
-- **Marketing_2025.xlsx** — Google, Facebook, Email data (3 sheets)
-
-### 09_Appendices
-- **Appendix_Practice.xlsx** — 5 sheets: SalesData, HRData, InventoryData, FinanceData, EmployeeM
+1. Click the green **Code** button above → **Download ZIP**
+2. Extract to your Desktop
+3. Open the folder and follow the book's instructions
 
 ---
 
 ## License
 
-These files are for educational purposes.
+These files are for educational purposes only.
 
 ---
 
-**Happy Learning!** 🚀
+**Build Once. Refresh Forever.** 
 
----
+
 
 *For questions or feedback, please refer to the book's "Get in Touch" section.[rashariju@gmail.com]
