@@ -9,7 +9,7 @@
 
 ## 📖 Download the Book
 
-[Download Power Query Zero to Mastery (PDF)](https://github.com/RashaRiju/powerquery-sample-files/raw/main/Power_Query_Zero_to_Mastery-A_Complete_Guide.pdf)
+[Download Power Query Zero to Mastery (PDF)](https://github.com/RashaRiju/power-query-zero-to-mastery/raw/main/Power_Query_Zero_to_Mastery-A_Complete_Guide.pdf)
 
 ---
 
